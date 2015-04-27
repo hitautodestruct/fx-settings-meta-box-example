@@ -367,3 +367,4 @@ function fx_smb_basic_sanitize( $settings  ){
 	return $settings ;
 }
 
+?>
